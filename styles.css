@@ -36,21 +36,21 @@ h2
 .Contact
 {
     font-size: 40px;
-    margin-right: 400px;
+    margin-right: 350px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
 .PersonalInformation 
 {
     font-size: 40px;
-    margin-right: 400px;
+    margin-right: 350px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
 .Languages 
 {
     font-size: 40px;
-    margin-right: 400px;
+    margin-right: 350px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
@@ -71,6 +71,10 @@ p
     font-size: 30px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
+}
+html
+{
+    background-color: #f2f2f2;
 }
 html
 {
