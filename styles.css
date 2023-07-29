@@ -1,0 +1,40 @@
+h1{
+    color: black;
+    background-color:steelblue;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    color:black;
+    background-color:steelblue;
+    font-size:x-large;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+.green-text{
+    color:darkgreen;
+    font-family: 'Dancing Script', cursive;
+    /*the one from fonts.google.com*/
+}
+#main
+{
+    color: blueviolet;
+}
+.text-align
+{
+    text-align: center;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+img
+{
+    border-style:solid;
+    border-color: steelblue;
+}
