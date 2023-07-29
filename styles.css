@@ -1,44 +1,79 @@
-h1{
+h1
+{
     color: black;
     background-color:steelblue;
-    font-size: 50px;
+    font-size: 100px;
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
 }
-h2{
+img
+{
+    border: 10px solid steelblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+h2
+{
     color:black;
     background-color:steelblue;
-    font-size:x-large;
+    font-size: 50px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
-}
-.green-text{
-    color:darkgreen;
-    font-family: 'Dancing Script', cursive;
-    /*the one from fonts.google.com*/
-}
-#main
-{
-    color: blueviolet;
+    margin: 0px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
 }
 .text-align
 {
     text-align: center;
 }
-.center
+.Contact
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    height: 200px;
+    font-size: 40px;
+    margin-right: 500px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
 }
-img
+.PersonalInformation 
 {
-    border-style:solid;
-    border-color: steelblue;
+    font-size: 40px;
+    margin-right: 500px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
 }
+.Languages 
+{
+    font-size: 40px;
+    margin-right: 500px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+.Skills 
+{
+    font-size: 40px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+h3
+{
+    font-size: 40px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+p
+{
+    font-size: 30px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+
 html
 {
-    background-color: #F2F2F2;
+    background-color: #f2f2f2;
 }
