@@ -1,3 +1,7 @@
+html
+{
+    background-color: #f2f2f2;
+}
 h1
 {
     color: black;
@@ -6,7 +10,7 @@ h1
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
     margin: 5px 0px 5px 0px;
-    padding: 5px;
+    padding: 0px;
 }
 img
 {
@@ -26,57 +30,96 @@ h2
     font-family:'Times New Roman', Times, serif;
     margin: 0px;
     margin-top: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     padding: 5px;
 }
 .text-align
 {
     text-align: center;
 }
-.Contact
+div[id="part"]
+{
+   border:10px solid black;
+   padding: 40px; 
+}
+.Contact    
 {
     font-size: 40px;
-    margin-right: 350px;
+    margin:5px 0px 5px 1000px; 
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
 .PersonalInformation 
 {
     font-size: 40px;
-    margin-right: 350px;
+    margin:5px 0px 5px 50px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
 .Languages 
 {
     font-size: 40px;
-    margin-right: 350px;
+    margin:5px 0px 5px 50px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
 .Skills 
 {
     font-size: 40px;
+    margin:5px 0px 5px 50px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
 h3
 {
+    font-size: 50px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+    background-color: steelblue;
+    text-align: center;
+}
+p
+{
     font-size: 40px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
-p
+h4
 {
-    font-size: 30px;
+    font-size: 50px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: -60px;
+}
+h5
+{
+    font-size: 40px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: -40px;
+}
+h6
+{
+    font-size: 35px;
     font-weight: normal;
     font-family:'Times New Roman', Times, serif;
 }
-html
+hr
 {
-    background-color: #f2f2f2;
+    margin-right: 0px;
 }
-html
+ul
 {
-    background-color: #f2f2f2;
+    font-size: 32px;
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+ul[id="projects"]
+{
+    margin-top: 70px;
+}
+#time
+{
+    font-size: 30px;
+    margin-bottom: -5px;
 }
